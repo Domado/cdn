@@ -1,2 +1,2 @@
 # cdn
-https://cdnjs.666so.cn/gh/Domado/cdn/Filename
+https://cdnjs.888so.cn/gh/Domado/cdn/Filename
